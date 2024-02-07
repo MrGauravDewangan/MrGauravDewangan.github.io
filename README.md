@@ -28,10 +28,10 @@ Known as **Gaurav Dewangan**. I am one of the prospecting students in the Comput
 ## Hobbies, Interests, Extracurricular Activities, Projects
 ### Hobbies
 >I am truly an ordinary individual. My hobbies include 
--[x] Playing gacha games on phone.
--[x] Playing roguelites on PC.
--[x] Playing table tennis in the mess.
--[x] Playing [pranks](https://www.youtube.com/watch?v=dQw4w9WgXcQ) at others.
+- [x] Playing gacha games on phone.
+- [x] Playing roguelites on PC.
+- [x] Playing table tennis in the mess.
+- [x] Playing [pranks](https://www.youtube.com/watch?v=dQw4w9WgXcQ) at others.
 
 ### Interests
 ~~~
