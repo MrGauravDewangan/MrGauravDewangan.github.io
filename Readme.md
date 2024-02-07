@@ -1,14 +1,14 @@
 # Profile Page
 
 ## About Me
-Known as **Gaurav Dewangan**. I am one of the prospecting students in the Computer Science Department at IIT GOA. Hailing from Maharashtra, I am truly an ordinary individual. Do no let my appearance or words deceive you. 
+Known as **Gaurav Dewangan**. I am one of the prospecting students in the Computer Science Department at IIT GOA. Hailing from Maharashtra, I am truly an ordinary individual.~~ Do no let my appearance or words deceive you.~~ 
 
 ## Education
 |Academic Year | Standard | School|
 |---|---|---|
-|2018| 9^th^- 10^th^| Podar|
-|2020| 11^th^ - 12^th^| Pace |
-|2022| 12^th^ Drop| Allen |
+|2018| 9th- 10th| Podar|
+|2020| 11th - 12th| Pace |
+|2022| 12th Drop| Allen |
 |2023| College | IIT GOA|
 
 ## Course@IIT Goa
@@ -28,10 +28,10 @@ Known as **Gaurav Dewangan**. I am one of the prospecting students in the Comput
 ## Hobbies, Interests, Extracurricular Activities, Projects
 ### Hobbies
 >I am truly an ordinary individual. My hobbies include 
-Playing gacha games on phone.
-Playing roguelites on PC.
-Playing table tennis in the mess.
-Playing [pranks](https://www.youtube.com/watch?v=dQw4w9WgXcQ) at others.
+-[x]Playing gacha games on phone.
+-[x]Playing roguelites on PC.
+-[x]Playing table tennis in the mess.
+-[x]Playing [pranks](https://www.youtube.com/watch?v=dQw4w9WgXcQ) at others.
 
 ### Interests
 ~~~
