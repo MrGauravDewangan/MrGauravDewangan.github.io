@@ -2,6 +2,7 @@
 
 ## About Me
 Known as **Gaurav Dewangan**. I am one of the prospecting students in the Computer Science Department at IIT GOA. Hailing from Maharashtra, I am truly an ordinary individual. ~~Do no let my appearance or words deceive you.~~ 
+![The masked trash.. | Profile picture, Manual, Trash](https://i.pinimg.com/736x/88/90/73/88907310283240fbd9908d2efec8c09e.jpg)
 
 ## Education
 |Academic Year | Standard | School|
@@ -27,7 +28,7 @@ Known as **Gaurav Dewangan**. I am one of the prospecting students in the Comput
 
 ## Hobbies, Interests, Extracurricular Activities, Projects
 ### Hobbies
->I am truly an ordinary individual. My hobbies include 
+> I am truly an ordinary individual. My hobbies include 
 - [x] Playing gacha games on phone.
 - [x] Playing roguelites on PC.
 - [x] Playing table tennis in the mess.
