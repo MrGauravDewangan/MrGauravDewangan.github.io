@@ -45,4 +45,4 @@ Making a new poem or
 Often missing the lunch
 ~~~
 ### Projects
-I have done several projects over the last year. My latest project was [this](github.io/MrGauravDewangan/MrGaurav.Dewangan.github.io)
+I have done several projects over the last year. My latest project was [this](https://github.com/MrGauravDewangan/MrGauravDewangan.github.io/blob/main/Readme.md)
