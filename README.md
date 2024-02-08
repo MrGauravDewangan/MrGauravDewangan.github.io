@@ -1,7 +1,7 @@
 # Profile Page
 
 ## About Me
-Known as **Gaurav Dewangan**. I am one of the prospecting students in the Computer Science Department at IIT GOA. Hailing from Maharashtra, I am truly an ordinary individual. ~~Do no let my appearance or words deceive you.~~ 
+Known as **Gaurav Dewangan**. I am one of the prospecting students in the Computer Science Department at IIT GOA. Hailing from Maharashtra, I am truly an ordinary individual. ~~Do no let my appearance or words deceive you.~~   I am truly an ordinary individual.
 ![The masked trash.. | Profile picture, Manual, Trash](https://i.pinimg.com/736x/88/90/73/88907310283240fbd9908d2efec8c09e.jpg)
 
 ## Education
