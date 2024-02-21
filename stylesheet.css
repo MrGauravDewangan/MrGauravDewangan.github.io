@@ -1,4 +1,13 @@
-div.div1 {border:2; background-color:#FEA993}
-b.name {font: bold 14px/28px Times, serif}
-img.pfp {align="right" width="172" height="172"}
-
+div.abt {border:2pt ; background-color:#FEA993}
+b.name {font: bold 14pt/28pt Times, serif}
+img.pfp {float:right; width:172px height:172px}
+p.p1 {font: sans-serif; color:#0000FF}
+table{border-spacing:10px; background-color:#ADD8E6; padding:10px}
+th{text-decoration: underline}
+tr.t1 {align:left}
+tr.t2 {align:center}
+div.aut {background-color:#00FF00; border:3pt }
+div.spr {background-color:#FFB6C1; border:3pt }
+ol {list-style-type:lower-roman}
+div.hip {font-family: 'Comic Sans MS', cursive;}
+body {background-image: url(https://i.pinimg.com/originals/bc/71/57/bc7157954f158dec66c8ee98c1313f02.jpg)}
